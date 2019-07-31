@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\bin\Debug\Lista 1 - Exercicio 14.exe.config
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\bin\Debug\Lista 1 - Exercicio 14.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\bin\Debug\Lista 1 - Exercicio 14.pdb
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\obj\Debug\Lista 1 - Exercicio 14.csprojAssemblyReference.cache
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\obj\Debug\Lista 1 - Exercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\obj\Debug\Lista 1 - Exercicio 14.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 14\Lista 1 - Exercicio 14\obj\Debug\Lista 1 - Exercicio 14.pdb

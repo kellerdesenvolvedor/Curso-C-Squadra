@@ -1,0 +1,7 @@
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\obj\Debug\Calculadora Financeira-Renda Fixa.csprojAssemblyReference.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\obj\Debug\Calculadora Financeira-Renda Fixa.csproj.CoreCompileInputs.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\bin\Debug\Calculadora Financeira-Renda Fixa.exe.config
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\bin\Debug\Calculadora Financeira-Renda Fixa.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\bin\Debug\Calculadora Financeira-Renda Fixa.pdb
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\obj\Debug\Calculadora Financeira-Renda Fixa.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira-Renda Fixa\Calculadora Financeira-Renda Fixa\obj\Debug\Calculadora Financeira-Renda Fixa.pdb

@@ -1,0 +1,7 @@
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\bin\Debug\Lista 1 - Exercicio 03.exe.config
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\bin\Debug\Lista 1 - Exercicio 03.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\bin\Debug\Lista 1 - Exercicio 03.pdb
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\obj\Debug\Lista 1 - Exercicio 03.csprojAssemblyReference.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\obj\Debug\Lista 1 - Exercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\obj\Debug\Lista 1 - Exercicio 03.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Lista 1 - Exercicio 03\Lista 1 - Exercicio 03\obj\Debug\Lista 1 - Exercicio 03.pdb

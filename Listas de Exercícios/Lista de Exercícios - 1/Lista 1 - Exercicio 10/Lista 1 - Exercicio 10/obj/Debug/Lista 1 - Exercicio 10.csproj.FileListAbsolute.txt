@@ -1,0 +1,6 @@
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\bin\Debug\Lista 1 - Exercicio 10.exe.config
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\bin\Debug\Lista 1 - Exercicio 10.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\bin\Debug\Lista 1 - Exercicio 10.pdb
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\obj\Debug\Lista 1 - Exercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\obj\Debug\Lista 1 - Exercicio 10.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Lista 1 - Exercicio 10\Lista 1 - Exercicio 10\obj\Debug\Lista 1 - Exercicio 10.pdb

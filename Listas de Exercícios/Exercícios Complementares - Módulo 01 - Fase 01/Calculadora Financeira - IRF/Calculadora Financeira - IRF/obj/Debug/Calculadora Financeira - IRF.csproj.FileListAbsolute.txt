@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\obj\Debug\Calculadora Financeira - IRF.csprojAssemblyReference.cache
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\obj\Debug\Calculadora Financeira - IRF.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\bin\Debug\Calculadora Financeira - IRF.exe.config
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\bin\Debug\Calculadora Financeira - IRF.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\bin\Debug\Calculadora Financeira - IRF.pdb
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\obj\Debug\Calculadora Financeira - IRF.exe
+C:\Users\Master\Documents\Visual Studio 2019\Curso Udemy\Projetos\Calculadora Financeira - IRF\Calculadora Financeira - IRF\obj\Debug\Calculadora Financeira - IRF.pdb

@@ -1,0 +1,7 @@
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\obj\Debug\Calculadora Financeira - Poupança.csprojAssemblyReference.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\obj\Debug\Calculadora Financeira - Poupança.csproj.CoreCompileInputs.cache
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\bin\Debug\Calculadora Financeira - Poupança.exe.config
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\bin\Debug\Calculadora Financeira - Poupança.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\bin\Debug\Calculadora Financeira - Poupança.pdb
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\obj\Debug\Calculadora Financeira - Poupança.exe
+C:\Users\marcos.keller\Documents\Visual Studio 2019\Listas de Exercicios\Calculadora Financeira - Poupança\Calculadora Financeira - Poupança\obj\Debug\Calculadora Financeira - Poupança.pdb
